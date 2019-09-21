@@ -1,6 +1,5 @@
-package com.study.springboot.annotation.imports;
+package com.study.springboot.autoconfiguration.imports;
 
-import com.study.springboot.annotation.configuration.ConfigurationDemoTest;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**

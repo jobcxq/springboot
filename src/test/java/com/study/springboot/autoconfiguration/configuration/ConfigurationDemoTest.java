@@ -1,4 +1,4 @@
-package com.study.springboot.annotation.configuration;
+package com.study.springboot.autoconfiguration.configuration;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

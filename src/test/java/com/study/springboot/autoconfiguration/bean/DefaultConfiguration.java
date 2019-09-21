@@ -1,4 +1,4 @@
-package com.study.springboot.annotation.bean;
+package com.study.springboot.autoconfiguration.bean;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.study.springboot.annotation.ImportSelector;
+package com.study.springboot.autoconfiguration.ImportSelector;
 
 import org.springframework.context.annotation.ImportSelector;
 import org.springframework.core.type.AnnotationMetadata;

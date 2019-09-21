@@ -1,4 +1,4 @@
-package com.study.springboot.annotation.ImportSelector;
+package com.study.springboot.autoconfiguration.ImportSelector;
 
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;

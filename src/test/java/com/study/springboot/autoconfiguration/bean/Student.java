@@ -1,17 +1,16 @@
-package com.study.springboot.annotation.bean;
-
-import org.springframework.context.annotation.Bean;
+package com.study.springboot.autoconfiguration.bean;
 
 /**
  * @author cnxqin
  * @desc
- * @date 2019/08/19 22:26
+ * @date 2019/08/19 22:31
  */
-public class People {
+public class Student {
 
     private String name;
     private String sex;
     private int age;
+    private String school;
 
     public String getName() {
         return name;
@@ -35,5 +34,13 @@ public class People {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public String getSchool() {
+        return school;
+    }
+
+    public void setSchool(String school) {
+        this.school = school;
     }
 }
